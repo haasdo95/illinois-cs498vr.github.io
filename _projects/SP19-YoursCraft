@@ -1,0 +1,15 @@
+---
+layout: project
+title: YoursCraft
+image: N/A
+desc: |
+ A building game inspired by MineCraft.
+github: N/A
+dl: https://drive.google.com/open?id=1ERnVhsAEeGDWoi8L7261xNlGtrPgs5bc
+build-dl: https://drive.google.com/open?id=1NQRKip2HsPar1vRJ-Uebl0Ani7T6pZSc
+semester: Spring 2019
+team: 21
+youtube: jj-1rT4Cmbo
+featured: false
+---
+Uploaded both source code and build. dl -> source dl + build dl
